@@ -1,0 +1,86 @@
+meta:
+  name:
+    full: GESIS - Leibniz Institute for the Social Sciences
+    short: GESIS
+  link:
+    home: https://www.gesis.org
+    twitter: https://twitter.com/gesis_org
+    linkedin: https://www.linkedin.com/company/gesis---leibniz-institut-f-r-sozialwissenschaften
+  description: |
+    GESIS is the largest European infrastructure facility for the social
+    sciences and the basis for your excellent research.
+logo:
+  images:
+    primary: logos/logo_gesis_en.svg
+    icon: logos/favicon.ico
+    german: logos/logo_gesis.svg
+color:
+  palette:
+    gs-darkblue: "#003c78"
+    gs-lightblue: "#1e8cc8"
+    gs-pink: "#d20064"
+    gs-lightblue--14: "#dfeff7"
+    gs-darkblue--14: "#dbe3ec"
+    gs-berry: "#642878"
+    gs-turquoise: "#64afaf"
+    gs-orange: "#f08741"
+    gs-yellow: "#fad205"
+    gs-petrol: "#006a82"
+    gs-lightpink: "#c873a0"
+    gs-olive: "#699e6e"
+    gs-rust: "#aa4137"
+    gs-light: "#ccc"
+    gs-dark: "#000"
+    gs-berry--14: "#e9e0ec"
+    gs-turquoise--14: "#e9f4f4"
+    gs-orange--14: "#fdeee4"
+    gs-yellow--14: "#fff9db"
+    gs-petrol--14: "#dbeaed"
+    gs-lightpink--14: "#f7ebf2"
+    gs-olive--14: "#eaf1ea"
+    gs-rust--14: "#f3e4e2"
+    gs-dark--14: "#cdcdcd"
+    gs-light--14: "#f4f4f4"
+    gs-berry--25: "#D8C9DD"
+    gs-turquoise--25: "#D8EBEB"
+    gs-orange--25: "#FBE1CF"
+    gs-yellow--25: "#FEF4C0"
+    gs-petrol--25: "#BFDAE0"
+    gs-lightpink--25: "#F1DCE7"
+    gs-olive--25: "#D9E7DB"
+    gs-rust--25: "#EACFCD"
+    gs-blue--8: "#EBEFF4"
+    gs-default-grey: "#f4f4f4"
+    gs-accent-grey: "#cccccc"
+    gs-dark-grey: "#808080"
+    gs-white: "#ffffff"
+    gs-black: "#000000"
+    gs-facet-1: "#006A82"
+    gs-facet-2: "#F08741"
+    gs-facet-3: "#64AFAF"
+    gs-facet-4: "#FAD205"
+    gs-facet-5: "#C873A0"
+    gs-facet-6: "#AA4137"
+  # Theme colors
+  foreground: black
+  background: white
+  primary: gs-darkblue
+  secondary: gs-berry
+  success: gs-pink
+  warning: gs-yellow
+  danger: gs-rust
+  info: gs-turquoise
+  light: gs-light
+  dark: gs-dark
+typography:
+  fonts:
+    - family: Cabin
+      source: google
+    - family: Source Sans
+      source: google
+  base: Source Sans
+  headings: 
+    family: Cabin
+    weight: 700
+    color: gs-darkblue
+    size: 2.1rem
